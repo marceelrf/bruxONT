@@ -14,7 +14,7 @@ Feel free to ask questions and use the code as you wish!
 
 ## Workflow
 
-
+![](files/bruxONT.svg)
 
 ## About the name
 
