@@ -1,5 +1,7 @@
 # bruxONT
 
+This is a personal project to see if there are any new 1KG samples sequenced via ONT with R10 technology available for download from the [link](https://s3.amazonaws.com/1000g-ont/index.html?prefix=ALIGNMENT_AND_ASSEMBLY_DATA/100_PLUS/IN-HOUSE_MINIMAP2/).
+
 
 ## About the name
 
