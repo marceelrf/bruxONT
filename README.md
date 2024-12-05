@@ -6,11 +6,14 @@ Feel free to ask questions and use the code as you wish!
 
 ## Dependencies
 
-- python3
-    - Selenium;
-    - re;
-- googlechrome;
-- chromedriver;
+I've only tested it on Ubuntu 22.04
+
+- `python3`
+    - `Selenium`;
+    - `re`;
+- `googlechrome`;
+- `chromedriver`;
+- `wget`;
 
 ## Workflow
 
