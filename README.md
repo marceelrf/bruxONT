@@ -4,6 +4,13 @@ This is a personal project to see if there are any new 1KG samples sequenced via
 
 Feel free to ask questions and use the code as you wish!
 
+## Dependencies
+
+- python3
+    - Selenium;
+    - re;
+- googlechrome;
+- chromedriver;
 
 ## About the name
 
